@@ -1,0 +1,59 @@
+.logo {
+    font-weight: 800;
+    font-size: 28px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+span {
+    color: #4D5AE5;
+}
+
+.link {
+    font-weight: 500;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.art-section {
+    background-color: #2E2F42;
+    text-align: center;
+    padding: 184px 0;
+}
+
+.art-header {
+    font-weight: 700;
+    font-size: 56px;
+    color: #FFFFFF;
+    max-width: 496px;
+    margin: auto;
+    margin-bottom: 48px;
+}
+
+.button-style:hover {
+    background: #404BBF;
+}
+
+.button-style {
+    width: 124px;
+    height: 56px;
+    padding-top: 16px 32; /* Возможно, имелось в виду `padding: 16px 32px;` */
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #4D5AE5;
+    border: none;
+    border-radius: 4px;
+}
+
+.page-header {
+    padding: 24px 0;
+    border-bottom: 1px solid #E7E9FC;
+}
+
+.page-nav {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
